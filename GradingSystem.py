@@ -1,6 +1,7 @@
 from typing import final, Final
 
 # Immutable types
+# Immutable types
 # str
 # int
 # float
