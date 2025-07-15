@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="840dfa61-a527-4bf8-92d3-eba7fd4a5c3d" name="Changes" comment="Initial Assignment Commit">
-      <change afterPath="$PROJECT_DIR$/GradingSystem.py" afterDir="false" />
+    <list default="true" id="840dfa61-a527-4bf8-92d3-eba7fd4a5c3d" name="Changes" comment="LeapYear Commit and Push">
+      <change afterPath="$PROJECT_DIR$/graphs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GradingSystem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graphs.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +66,8 @@
     "Python.dictionary_palindrome.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "ft-Stacks",
+    "git-widget-placeholder": "FT-GRAPHS",
+    "last_opened_file_path": "C:/Users/Issa Abdulkadir/PycharmProjects/AssignmentsDone",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
@@ -96,6 +100,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Assignment Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Assignment Commit" />
+    <MESSAGE value="LeapYear Commit and Push" />
+    <option name="LAST_COMMIT_MESSAGE" value="LeapYear Commit and Push" />
   </component>
 </project>
